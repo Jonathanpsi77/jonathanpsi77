@@ -11,4 +11,3 @@ Algo que también influye mucho en mi forma de trabajar es mi background en psic
 Disfruto crear procesos de reclutamiento más humanos, ágiles y cercanos, donde tanto candidatos como empresas tengan una gran experiencia.
 
 Siempre estoy abierto a conectar con personas, hablar sobre talento, recruiting y cómo seguir construyendo mejores equipos 🤝
-**Jonathanpsi77/jonathanpsi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
