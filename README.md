@@ -9,4 +9,14 @@ No necesito ser developer. Pero sí necesito saber de qué estoy hablando.
 
 >Si construyes con criterio, ya tenemos mucho de qué hablar.
 
+## 🛠️ ¿Qué construimos en Buk?
 
+Nuestra arquitectura está diseñada deliberadamente para la resiliencia y la velocidad de entrega en un entorno regulatorio complejo operando en Chile, Colombia, Perú, México y Brasil .
+
+Combinamos un Majestic Monolith apoyado por microservicios especializados para dominios críticos y frontends escalables. Todo esto se sostiene sobre una infraestructura multirregión.
+
+Aquí la calidad del código no es un eslogan, es la norma:
+
+🏗️ Dominio de principios SOLID y uso criterioso de patrones de diseño.
+⚙️ Integración Continua (CI/CD) y despliegues progresivos.
+🤖 Uso de Inteligencia Artificial como estándar operativo diario para multiplicar nuestra productividad.
