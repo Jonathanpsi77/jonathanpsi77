@@ -1,5 +1,5 @@
 ## Hola soy Jona 👋
-$/checkout your_next_challenge$
+$/Yes, I’m a recruiter. No, I won’t ask you to code live.$
 
 Llevo más de 10 años trabajando en reclutamiento tech y sigo disfrutando muchísimo ayudar a conectar el mejor talento con grandes oportunidades 🚀
 
