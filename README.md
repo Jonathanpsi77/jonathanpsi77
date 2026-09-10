@@ -17,6 +17,6 @@ Combinamos un Majestic Monolith apoyado por microservicios especializados para d
 
 Aquí la calidad del código no es un eslogan, es la norma:
 
-🏗️ Dominio de principios SOLID y uso criterioso de patrones de diseño.
-⚙️ Integración Continua (CI/CD) y despliegues progresivos.
-🤖 Uso de Inteligencia Artificial como estándar operativo diario para multiplicar nuestra productividad.
+- 🏗️ Dominio de principios SOLID y uso criterioso de patrones de diseño.
+- ⚙️ Integración Continua (CI/CD) y despliegues progresivos.
+- 🤖 Uso de Inteligencia Artificial como estándar operativo diario para multiplicar nuestra productividad.
