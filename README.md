@@ -21,12 +21,6 @@ Aquí la calidad del código no es un eslogan, es la norma:
 - ⚙️ Integración Continua (CI/CD) y despliegues progresivos.
 - 🤖 Uso de Inteligencia Artificial como estándar operativo diario para multiplicar nuestra productividad.
 
-## 🔍 ¿Qué estaos búscando?
-
-Buscamos ingenieros que entiendan qué están construyendo, por qué y para quién. Mantenemos el foco en el cliente porque sabemos que si algo falla, impactamos directamente en los procesos más críticos de miles de empresas.
-
->El cliente en el centro
-
 ## 💻🚧 ¿Cómo creamos producto?
 
 Cada equipo es dueño de lo que construye y lo hace con foco en: calidad, productividad y escalabilidad.
