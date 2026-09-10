@@ -1,5 +1,5 @@
 ## Hola soy Jona 👋
-checkout your_next_challenge
+$/checkout your_next_challenge$
 
 Llevo más de 10 años trabajando en reclutamiento tech y sigo disfrutando muchísimo ayudar a conectar el mejor talento con grandes oportunidades 🚀
 
