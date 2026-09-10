@@ -1,16 +1,12 @@
 ## Hola soy Jona 👋
 >Yes, I’m a recruiter. No, I won’t ask you to code live
 
-Llevo más de 10 años trabajando en reclutamiento tech y sigo disfrutando muchísimo ayudar a conectar el mejor talento con grandes oportunidades 🚀
+Reclutar developers sin entender Git es como entrevistar músicos sin haber escuchado una canción. Puedes hacerlo, si. También puedes equivocarte muchísimo.
 
-A lo largo de ete camino he podido reclutar diferentes perfiles como desarrolladores, ingenieros de datos, DevOps y muchos otros especialistas. Más allá de cubrir posiciones, me interesa construir equipos que realmente generen impacto en el negocio.
+Me hice una cuenta porque prefiero mirar lo que construyes en lugar de quedarme con lo que dice tu CV. Reviso tus contribuciones, la estructura de tus proyectos personales y cómo aplicas buenas prácticas en el día a día. Ahí suele estar la señal real de encaje técnico, mucho más honesta que cualquier lista de skills en un currículum.
 
-Creo muchísimo en el reclutamiento como una función estratégica. Para mí, una buena contratación no solo cubre una vacante: ayuda a fortalecer la cultura, acelerar proyectos y potenciar productos y equipos.
+No necesito ser developer. Pero sí necesito saber de qué estoy hablando.
 
-Algo que también influye mucho en mi forma de trabajar es mi background en psicología, porque me gusta entender a las personas más allá del CV. Busco generar matches reales entre talento, cultura y objetivos de negocio ✨
-
-Disfruto crear procesos de reclutamiento más humanos, ágiles y cercanos, donde tanto candidatos como empresas tengan una gran experiencia.
-
-Siempre estoy abierto a conectar con personas, hablar sobre talento, recruiting y cómo seguir construyendo mejores equipos 🤝
+>Si construyes con criterio, ya tenemos mucho de qué hablar.
 
 
