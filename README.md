@@ -31,4 +31,8 @@ Buscamos ingenieros que entiendan qué están construyendo, por qué y para qui�
 
 Cada equipo es dueño de lo que construye y lo hace con foco en: calidad, productividad y escalabilidad.
 
+Fomentamos el ownership end-to-end. Aquí no solo ejecutas tareas; eres dueño de la solución y tus decisiones técnicas tienen impacto real en la plataforma.
+
+Trabajamos en equipos pequeños con alto nivel de autonomía. Tienes libertad total para decidir, pero asumes la responsabilidad técnica de lo que construyes.
+
 >Why we love boring technology
