@@ -30,3 +30,9 @@ Fomentamos el ownership end-to-end. Aquí no solo ejecutas tareas; eres dueño d
 Trabajamos en equipos pequeños con alto nivel de autonomía. Tienes libertad total para decidir, pero asumes la responsabilidad técnica de lo que construyes.
 
 >Why we love boring technology
+
+## 💻 Conoce nuestra cultura técnica
+
+Revisa nuestros pilares técnicos, donde abrimos nuestras decisiones y cultura de trabajo:
+
+
