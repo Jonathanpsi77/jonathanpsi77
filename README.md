@@ -20,3 +20,9 @@ Aquí la calidad del código no es un eslogan, es la norma:
 - 🏗️ Dominio de principios SOLID y uso criterioso de patrones de diseño.
 - ⚙️ Integración Continua (CI/CD) y despliegues progresivos.
 - 🤖 Uso de Inteligencia Artificial como estándar operativo diario para multiplicar nuestra productividad.
+
+## 💻🚧 ¿Cómo creamos producto?
+
+Cada equipo es dueño de lo que construye y lo hace con foco en: calidad, productividad y escalabilidad.
+
+>Why we love boring technology
